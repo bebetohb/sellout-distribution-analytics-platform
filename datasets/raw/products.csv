@@ -1,0 +1,7 @@
+product_id,product_name,brand,category,unit_price,status
+2001,Coca-Cola 2L,Coca-Cola,Beverages,12.50,Active
+2002,Fanta Laranja 2L,Coca-Cola,Beverages,11.90,Active
+2003,Nescau 400g,Nestle,Food,9.90,Active
+2004,Arroz Tipo 1 5kg,Tio Joao,Food,32.90,Active
+2005,Feijao Carioca 1kg,Kicaldo,Food,8.50,Active
+2006,Sabonete Dove,Dove,Personal Care,4.50,Active

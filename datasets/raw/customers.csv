@@ -1,0 +1,6 @@
+customer_id,customer_name,city,state,sales_channel,registration_date,status
+1001,Supermercado Bom Preco,Recife,PE,Supermarket,2023-01-10,Active
+1002,Farmacia Vida,Olinda,PE,Pharmacy,2023-02-15,Active
+1003,Atacadao Nordeste,Jaboatao,PE,Wholesale,2023-03-20,Active
+1004,Mini Mercado Central,Paulista,PE,Convenience,2023-04-12,Inactive
+1005,Supermercado Boa Compra,Recife,PE,Supermarket,2023-05-18,Active
