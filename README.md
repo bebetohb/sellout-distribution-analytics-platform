@@ -13,4 +13,5 @@ Projeto de Engenharia de Dados focado em integração, tratamento, qualidade e a
 Simular um ambiente corporativo de distribuição e varejo com foco em ingestão, transformação, qualidade e análise de dados.
 
 ## Architecture
-![Architecture](architecture/sellout_distribution_architecture.png)
+
+![Solution Architecture](architecture/sellout_architecture_v1.png)
